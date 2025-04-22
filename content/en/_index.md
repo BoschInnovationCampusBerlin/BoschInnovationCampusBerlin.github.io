@@ -1,6 +1,6 @@
 ---
 title : "12h Agentic AI Hackathon"
-description: "Hackathon"
+description: "Explore and build Agentic AI systems with us at the Bosch Innovation Campus."
 lead: ""
 date: 2023-08-21T10:00:00+02:00
 lastmod: 2023-08-21T10:00:00+02:00
