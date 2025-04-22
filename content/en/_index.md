@@ -34,9 +34,9 @@ Agentic AI describes AI systems that go beyond pure information processing and c
 {.a-list .a-list--dot}
 
 {{< columns amount="5" >}}
-  {{< profile name="Overview" url="/Metaverse_Hackathon_Housekeeping_Slides.pdf" >}}
+  <!-- {{< profile name="Overview" url="/Metaverse_Hackathon_Housekeeping_Slides.pdf" >}}
     Our hackathon tracks and coaches
-  {{</ profile >}}
+  {{</ profile >}} -->
   {{< profile name="Up to the Challenge?" url="/inspire" >}}
     See what challenges we got for you
   {{</ profile >}}
