@@ -16,13 +16,13 @@
     {{ partial "header/header.html" . }}
     <div class="e-container">
     {{ if or (eq .Kind "page") (eq .Kind "section") -}}
-    {{ $currentSection := .CurrentSection }}    
+    {{ $currentSection := .CurrentSection }}
       <article>
         <h1>{{ .Title }}</h1>
       </article>
       {{ with .Resources.GetMatch "image" }}
       <figure class="a-image">
-        <div class="a-image__ratioWrapper" style="padding-top: 21%">
+        <div class="a-image__ratioWrapper" style="padding-top: 21%;">
           <img src="{{ .RelPermalink }}" />
         </div>
       </figure>
@@ -33,7 +33,7 @@
     {{ else -}}
     {{ with .Resources.GetMatch "image" }}
       <figure class="a-image">
-        <div class="a-image__ratioWrapper">
+        <div class="a-image__ratioWrapper" style="padding-top: 32%;">
           <img src="{{ .RelPermalink }}" />
         </div>
       </figure>

@@ -13,11 +13,11 @@
   url = "/partners/"
   weight = 20
 
-[[main]]
-  identifier = "arsenal"
-  name = "Hack Arsenal"
-  weight = 30
-  url = "/arsenal/"
+# [[main]]
+#   identifier = "arsenal"
+#   name = "Hack Arsenal"
+#   weight = 30
+#   url = "/arsenal/"
 
 [[main]]
   name = "Event Agenda"
@@ -54,19 +54,19 @@
   weight = 30
   url = "/inspire/ai"
 
-[[main]]
-  identifier = "hardware"
-  name = "Hardware"
-  weight = 10
-  url = "/arsenal/hardware"
-  parent = "arsenal"
+# [[main]]
+#   identifier = "hardware"
+#   name = "Hardware"
+#   weight = 10
+#   url = "/arsenal/hardware"
+#   parent = "arsenal"
 
-[[main]]
-  identifier = "software"
-  name = "Software"
-  weight = 20
-  url = "/arsenal/software"
-  parent = "arsenal"
+# [[main]]
+#   identifier = "software"
+#   name = "Software"
+#   weight = 20
+#   url = "/arsenal/software"
+#   parent = "arsenal"
 
 [[footer]]
   name = "Corporate information"
