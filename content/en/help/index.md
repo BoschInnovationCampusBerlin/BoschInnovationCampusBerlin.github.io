@@ -14,17 +14,12 @@ If the pages on this site do not answer your questions, you can reach out to our
 
 Alternatively, we have a discord server setup so that you can reach out to our hack assistants as well as your fellow
 hackers.
-      <p class="-size-m" style="margin:0">
-        <br />
-        <a href="https://discord.gg/cJzJJ3m6" target="_blank">
-          <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df290f5892d944_full_logo_black_RGB.svg" width="200" />
-        </a>
-      </p>
+
 
 ## Hack Coaches
 Hack Coaches are your domain experts in your tracks. Contact them if you need domain expertise.
 
-{{< columns amount="3" >}}
+<!-- {{< columns amount="3" >}}
   {{< profile picture="alexander.png" name="Alexander von Gaisberg-Helfenberg" >}}
     Hack Track: Retail
   {{</profile >}}
@@ -34,11 +29,11 @@ Hack Coaches are your domain experts in your tracks. Contact them if you need do
   {{< profile picture="christian.png" name="Christian Kersten" >}}
     Hack Track: Metaverse & AI
   {{</profile >}}
-{{</ columns >}}
+{{</ columns >}} -->
 
 ## Hack Ninjas
 
-{{< columns amount="3" >}}
+<!-- {{< columns amount="3" >}}
   {{< profile picture="yousof.png" name="Yousof Alsatom" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
   {{</profile >}}
   {{< profile picture="zubair.jpg" name="Zubair Mohammad" category="#AI, #Python, #Azure ML, #Azure Devops" >}}
@@ -64,5 +59,5 @@ Hack Coaches are your domain experts in your tracks. Contact them if you need do
   {{< profile picture="marcel.png" name="Marcel Mischke" category="#Networking, #Infrastructure">}}
   {{</profile >}}
   {{< profile picture="Lenny.png" name="Lenny Rook" category="#Prototyping">}}
-  {{</profile >}}
+  {{</profile >}} -->
 {{</ columns >}}
