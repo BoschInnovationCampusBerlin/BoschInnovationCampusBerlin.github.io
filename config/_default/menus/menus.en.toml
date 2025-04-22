@@ -8,10 +8,10 @@
   url = "/inspire/"
   weight = 10
 
-[[main]]
-  name = "Friends of Hack"
-  url = "/partners/"
-  weight = 20
+# [[main]]
+#   name = "Friends of Hack"
+#   url = "/partners/"
+#   weight = 20
 
 # [[main]]
 #   identifier = "arsenal"

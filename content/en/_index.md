@@ -40,9 +40,9 @@ Agentic AI describes AI systems that go beyond pure information processing and c
   {{< profile name="Up to the Challenge?" url="/inspire" >}}
     See what challenges we got for you
   {{</ profile >}}
-  {{< profile name="Partners" url="/partners" >}}
+  <!-- {{< profile name="Partners" url="/partners" >}}
     We've invited some friends over and they brought along some cool technology
-  {{</ profile >}}
+  {{</ profile >}} -->
   {{< profile name="Agenda" url="/agenda" >}}
     The Low-down over the next 2 days
   {{</ profile >}}
