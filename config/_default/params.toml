@@ -68,7 +68,7 @@ fillImage = "1270x740 Center" # normalize image size
 footer = "You have never seen this page."
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Robert Bosch GmbH 2025, all rights reserved"
 
 # Alert
 alert = false

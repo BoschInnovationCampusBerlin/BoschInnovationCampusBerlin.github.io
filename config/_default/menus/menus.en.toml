@@ -4,7 +4,7 @@
 #  weight = 5
 
 [[main]]
-  name = "Inspire"
+  name = "Use Cases"
   url = "/inspire/"
   weight = 10
 
