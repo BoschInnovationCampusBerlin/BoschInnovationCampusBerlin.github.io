@@ -24,10 +24,10 @@
   weight = 40
   url = "/agenda"
 
-[[main]]
-  name = "Hack and House Rules"
-  url = "/rules/"
-  weight = 45
+# [[main]]
+#   name = "Hack and House Rules"
+#   url = "/rules/"
+#   weight = 45
 
 [[main]]
   name = "Campus Map"

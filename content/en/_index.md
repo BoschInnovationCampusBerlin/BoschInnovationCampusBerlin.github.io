@@ -49,9 +49,9 @@ Agentic AI describes AI systems that go beyond pure information processing and c
   {{< profile name="Get Help" url="/help" >}}
     Need help with anything?
   {{</ profile >}}
-  {{< profile name="Hack & House Rules" url="/rules" >}}
+  <!-- {{< profile name="Hack & House Rules" url="/rules" >}}
     Our hack- and house rules
-  {{</ profile >}}
+  {{</ profile >}} -->
   {{< profile name="Campus Map" url="/area" >}}
     Overview of the campus area
   {{</ profile >}}
