@@ -33,7 +33,7 @@ Agentic AI describes AI systems that go beyond pure information processing and c
 * Interaction skills: They communicate effectively – with their environment, with other systems and with people. 
 {.a-list .a-list--dot}
 
-{{< columns amount="5" >}}
+{{< columns amount="2" >}}
   <!-- {{< profile name="Overview" url="/Metaverse_Hackathon_Housekeeping_Slides.pdf" >}}
     Our hackathon tracks and coaches
   {{</ profile >}} -->
