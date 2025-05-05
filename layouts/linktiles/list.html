@@ -3,29 +3,24 @@
   <div class="a-text">{{ .Content }}</div>
   <div class="tile-wrapper 3-col">
     {{ range $i, $e := where .Site.RegularPages.ByTitle "Section" .Section }}
-    {{ if in (.RelPermalink | string) $currentSection.RelPermalink }}
+      {{ if in (.RelPermalink | string) $currentSection.RelPermalink }}
       <div class="a-tile tile-item -secondary">
+        <a
+          href="{{ .RelPermalink }}"
+          class="a-tile__link"
+        >
         {{ with .Resources.GetMatch "image" }}
-          <figure class="a-image">
-            <div class="a-image__ratioWrapper">
-              <img
-                src="{{ .RelPermalink }}"
-                alt=""
-              />
-            </div>
-          </figure>
+          <img src="{{ .RelPermalink }}" width="370" height="250" />
         {{ end }}
           <div class="a-text" style="padding:2rem">
-            <span class="-size-s" style="display:block;margin-bottom:0.5rem">
-              {{ .Summary }}
-            </span>
             <h3 class="-size-xl" style="margin-bottom:0.5rem;margin-top:0">
               {{ .Title }}
             </h3>
             <p class="-size-m" style="margin:0">{{ .Description }}</p>
           </div>
+        </a>
       </div>
-    {{ end }}
+      {{ end }}
     {{ end }}
   </div>
 {{ end }}

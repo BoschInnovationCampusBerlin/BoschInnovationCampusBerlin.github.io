@@ -14,7 +14,7 @@
   {{ end -}}
   <body class="{{ .Scratch.Get "class" }}"{{ if eq .Site.Params.options.scrollSpy true }} data-bs-spy="scroll" data-bs-target="#toc" data-bs-root-margin="0px 0px -90%" data-bs-smooth-scroll="true" tabindex="0"{{ end }}>
     {{ partial "header/header.html" . }}
-    <div class="e-container">
+    <div class="e-container" style="margin-bottom:1.5rem">
     {{ if or (eq .Kind "page") (eq .Kind "section") -}}
     {{ $currentSection := .CurrentSection }}
       <article>
@@ -41,7 +41,7 @@
     {{ end -}}
     </div>
 
-    <div class="e-container">
+    <div class="e-container a-text">
       {{ block "main" . }}{{ end }}
     </div>
     {{ block "sidebar-prefooter" . }}{{ end }}
