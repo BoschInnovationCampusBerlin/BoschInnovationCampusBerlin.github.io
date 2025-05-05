@@ -56,10 +56,3 @@ Agentic AI describes AI systems that go beyond pure information processing and c
     Overview of the campus area
   {{</ profile >}}
 {{</ columns >}}
-
-
-## Register
-
-Thank you for your interest in the Agentic AI Hackathon! Please complete the form below to apply for a spot. If you have any questions or comments, please include them in the free text field at the bottom. We're looking forward to hearing from you! 
-
-<iframe style="margin-top: 2em;" width="100%" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=GR7lCsgHS067bWSO5YQQ9LAZ8XhGIl1OrXzqFYc-9vdUNU02RkFWUDJPTkVDTU1IVEtMRkM4SENGWC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
