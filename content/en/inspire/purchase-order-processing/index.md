@@ -1,5 +1,5 @@
 ---
-title: "PCBA BOM Parsing & Digitalization"
+title: "Purchase order processing"
 description: "Bosch divisions buy parts and equipment from vast variety of clients. Especially for niche suppliers, written communication and contracts are paper based and not standardised. Yet, they still need to be properly processed to comply with business and legal regulations. As demand grows, manual filing requires a lot of effort and gets expensive. A flexible application that combines existing paper scanning and document archiving, optical character recognition (OCR) and automating SAP flow is supposed to minimise human effort and resulting costs."
 date: 2023-08-23T16:40:06+02:00
 draft: false
