@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2023-08-23T13:52:25+02:00
-lastmod: 2023-08-23T13:52:25+02:00
+lastmod: 2025-05-19T13:38:59Z
 draft: false
 images: []
 resources:
@@ -12,24 +12,28 @@ resources:
 ## Tuesday, 24.06.2025
 | Time | Location | Event |
 | -- | -- | -- |
-| 12:00 – 12:30 | Reception | Registration opened |
-| 12:30 – 13:00 | Stage Atrium | Welcome & Kick-off, Presentation of organizational information |
-| 13:00 – 13:45 | Stage Atrium | Presentation of Hack Challenges by the Hack Coaches –> Pitch |
-| 13:45 – 14:15 | Stage Atrium | Techstacks Pitches and Partners |
-| 14:15 – 15:15 | Atrium | Open Space: Brainstorm ideas for the hack challenges+ Hackchallenges Marketplaces |
-| 15:15 | Atrium | Hack Team forming and Claim finding + Team registration in GIT HUB page |
-| 17:30 – 22:00 | Academy | Official Start of the 12h Hackathon |
-| 19:00 | Rooftop Terrace | Dinner |
+| 12:00 | Reception | Doors Open & Registration Day 1 |
+| 12:00 | Atrium Networking Zone | Pizza 🍕 & Get2Know |
+| 13:00 | Atrium Main Stage | Official Welcome by Bosch Innovation Campus Host 👋 |
+| 13:30 | Atrium Main Stage | Presentation of Hack Challenges 🎤️ |
+| 13:50 | Atrium Main Stage | Tech Stack pitches by Partners |
+| 14:15 | Atrium Main Stage | Team Matchmaking & Sign-in to Team Hacking Zones |
+| 15:00 | Atrium Main Stage | Official Start of 12h Agentic AI Hackathon ▶️ |
+| 15:00 | Team Hacking Zones | Team Focus Time |
+| 22:00 | | End of Day 1: Doors closed 🏁 |
 
 ## Wednesday, 25.06.2025
 | Time | Location | Event |
 | -- | -- | -- |
-| 08:00 | Academy | Start of Hack Day II |
-| 12:00 – 13:00 | Share | Lunch Buffet |
-| 16:00 | Create | Return of Hardware |
-| 16:00 – 17:00 | Stage Atrium | Preparation of Hack Result Pitches |
-| 17:00 – 17:30 | Stage Atrium | Handover of Slide Decks |
-| 17:30 | Atrium | Time to join Keynotes and Panels |
-| 18:00 – 20:00 | Stage Atrium | Presentation of Hacking Results |
-| **20:00 – 21:00** | | **Winner Announcement + Price Handover**
+| 8:00 | Atrium Networking Zone | Doors Open & Registration Day 2 |
+| | Atrium Networking Zone | Breakfast Buffet opens ☕️ |
+| 8:00 | Team Hacking Zones | Team Focus Time |
+| 12:00 | Atrium Networking Zone | Lunch Buffet opens 🍽 |
+| 15:00 | Virtual Upload Zone | Deadline to Hand in Hacking Results |
+| | Atrium Networking Zone | Snack Buffet opens 🍎 |
+| | Team Hacking Zones | Team Focus Time to prepare pitches |
+| 15:45 | Atrium Main Stage | Keynote & Team pitches 🎤️ |
+| 18:00 | Atrium Main Stage | **Winner Announcements & Pricegiving 🏆** |
+| 19:00 | Atrium Main Stage | End of 12h Agentic AI Hackathon |
+| 19:00 | | Doors closed 🏁 |
 
