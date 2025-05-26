@@ -10,4 +10,4 @@ resources:
   src: "banner-friends.jpg"
 ---
 
-Every groundbreaking idea is fueled by supporters who champion collective ingenuity. Our partners transform this Metaverse Hackathon from a simple event to a hub of brilliance, providing essential support to bring innovative ideas to life.
+Every groundbreaking idea is fueled by supporters who champion collective ingenuity. Our partners transform this Agentic AI Hackathon from a simple event to a hub of brilliance, providing essential support to bring innovative ideas to life.
