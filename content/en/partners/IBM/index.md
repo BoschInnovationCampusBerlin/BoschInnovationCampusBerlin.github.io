@@ -7,7 +7,9 @@ draft: false
 images: []
 resources:
 - name: "logo"
-  src: "nvidia_new_small.png"
+  src: "logo_default.png"
 ---
 
-![nvidia_new_small.png](logo)
+![logo_default.png](logo)
+
+IBM
