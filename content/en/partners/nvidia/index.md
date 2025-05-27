@@ -27,7 +27,7 @@ Prime audience are developers and practitioners who use **LangChain**, **LangGra
    - The Chatbot user interface. Some of the example recordings make use of this interface without explicit mentioning: [AIQToolkit-UI](https://github.com/NVIDIA/AIQToolkit-UI)
 
 2. Once you have installed this start to consume recordings like:
-   - First steps with the toolkit and make basic experiments. It will make use of an LLM endpoint from build.nvidia.com [How to Use NVIDIA AgentIQ](https://youtu.be/H65OluZaiZQ)
+   - First steps with the toolkit and make basic experiments [How to Use NVIDIA AgentIQ](https://youtu.be/H65OluZaiZQ). It will make use of an LLM endpoint from [build.nvidia.com](https://build.nvidia.com).
    - This video is about taking a simple LangChain based Agent and expose it through NVIDIA Agent Intelligence Toolkit: [Learn How to Build an Agentic System](https://www.youtube.com/watch?v=j3LbI28NJCs)
 
 ### Where is the LLM coming from?
