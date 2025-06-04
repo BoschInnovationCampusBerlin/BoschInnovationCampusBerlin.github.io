@@ -44,7 +44,7 @@ AWS organizes its GenAI services into a three-layer stack:
 3. *Layer 3: Application Development*  
    - Integrate GenAI into applications using AWS Lambda, Amazon API Gateway, and Amazon SageMaker for custom ML pipelines.
  
-![AWS GenAI Stack.](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/08/GenAI-Stack.jpg "AWS Generative AI Stack")
+<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/08/GenAI-Stack.jpg" alt="AWS GenAI Stack" title="AWS Generative AI Stack" width="80%" />
  
 ---
  
