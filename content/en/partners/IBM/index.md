@@ -7,7 +7,7 @@ draft: false
 images: []
 resources:
 - name: "logo"
-  src: "logo_default.png"
+  src: "IBM_logo_blue60_RGB.png"
 ---
 
 ## IBM Technology Stack
