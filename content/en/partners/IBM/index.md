@@ -65,3 +65,8 @@ IBM Watson STT service transcribes audio to text accurately, supporting various 
 IBM Watson TTS service synthesizes natural-sounding speech from text, enabling applications to speak to users.
 
 * [**IBM Watson Text to Speech**](https://www.ibm.com/products/text-to-speech)
+
+### 10. **Contact Persons during the hackathon**
+
+- [Florian Lutz](mailto:florian.lutz@de.ibm.com)
+- [Christian Baltzer](mailto:christian.baltzer@ibm.com)
