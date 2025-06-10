@@ -7,7 +7,7 @@ draft: false
 images: []
 resources:
 - name: "logo"
-  src: "Amazon_Web_Services_Logo.svg"
+  src: "Amazon_Web_Services_Logo.png"
 ---
 
 # Guide: Building Agentic AI Use Cases with AWS

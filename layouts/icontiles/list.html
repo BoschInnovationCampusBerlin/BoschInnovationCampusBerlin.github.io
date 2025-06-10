@@ -10,9 +10,9 @@
           class="a-tile__link"
         >
         {{ with .Resources.GetMatch "logo" }}
-            <div class="a-image__ratioWrapper" style="padding-top: 5%">
-              <img src="{{ .RelPermalink }}" style="height: 175px; width: auto;" />
-            </div>
+            <div class="a-image__ratioWrapper" style="padding-top: 5%; text-align: center;">
+              <img src="{{ .RelPermalink }}" style="max-width: 100%; height: auto; max-height: 175px; width: auto;" />
+              </div>
         {{ end }}
         </a>
       </div>
