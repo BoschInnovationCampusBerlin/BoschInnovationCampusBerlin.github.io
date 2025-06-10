@@ -11,27 +11,43 @@ resources:
   src: "banner.png"
 ---
 
-### Are you...
+### 👋 Welcome to the Agentic AI Hackathon GitHub Space 
+You’ve made it, and we’re excited to have you here! 
 
-...a developer, data scientist, designer, tinkerer, or just a tech enthusiast with a passion for future technologies?  
-...curious about the next evolutionary step of AI – Agentic AI – and how it can revolutionize industry and corporate IT development?  
-...ready to test new ideas, build prototypes, and start something big together with other innovators?  
-\
-**Then you've come to the right place!**
-\
-Get ready to ignite your creativity, unleash your coding skills, and collaborate with fellow pioneers for an unforgettable hacking experience. We're thrilled to have you join us on this exciting journey into the future of mobility, powered by Agentic AI. Let's build what's next – together. 
-\
-Ready to be one out of 80 hackers?  Take Agentic AI for a spin and join the hacking tribe. Register here to secure your spot for the Hack Challenge! Let’s code the future!
+This is your central hub for everything you need during the Agentic AI Hackathon at our  Bosch Innovation Campus in Berlin, including information on challenges, team formation, technical resources, submission guides and updates. 
 
-## What is Agentic AI?
-Agentic AI describes AI systems that go beyond pure information processing and can act, learn and adapt to complex environments independently. They perform tasks in a context-aware manner. Our definition is based on five key characteristics:
+You're one of 100 selected hackers who will be joining us to push the boundaries of what AI can do when it’s no longer just predictive, but also proactive, autonomous and goal driven. 
 
-* Autonomy and goal orientation: The AI acts independently and pursues self-defined or predefined goals – without constant human control. 
-* Adaptability and learning: Agentic AIs dynamically adapt their behavior to new situations and continuously improve through experience. 
-* Complex problem solving: They can handle multi-level tasks, make decisions that go beyond simple rules, and develop creative solutions. 
-* Contextual understanding and proactivity: Agentic AIs recognize the context of situations, anticipate problems or opportunities, and act with foresight. 
-* Interaction skills: They communicate effectively – with their environment, with other systems and with people. 
-{.a-list .a-list--dot}
+So, whether you're here to build something extraordinary, test that edge-case prompt, or orchestrate a multi-agent pipeline, you've come to the right place!
+
+## What is this Hackathon all about?
+Agentic AI represents a new paradigm in AI development – where systems don’t just react, but act.\
+We’re here to prototype the future of mobility, industry, and enterprise applications using the latest in: 
+* Autonomous agent frameworks 
+* RAG architectures & LLM integrations 
+* IoT & automation tooling 
+* Team-based problem solving & live prototyping
+
+With support from our partners – including Microsoft, AWS, NVIDIA, Capgemini, KI Park, IBM and n8n – you’ll be building with real tools, real data, and real-world challenges. 
+
+## 🤖 What is Agentic AI?
+Agentic AI refers to AI systems that go beyond pure information processing and can act, learn and adapt to complex environments independently. They perform tasks in a context-aware manner. Our definition is based on five key characteristics:
+
+1. **Autonomy and goal orientation**: The AI acts independently and pursues self-defined or predefined goals – without constant human control. 
+1. **Adaptability and learning**: Agentic AIs dynamically adapt their behavior to new situations and continuously improve through experience.
+1. **Complex problem solving**: They can handle multi-level tasks, make decisions that go beyond simple rules, and develop creative solutions. 
+1. **Contextual understanding and proactivity**: Agentic AIs recognize the context of situations, anticipate problems or opportunities, and act with foresight. 
+1. **Interaction skills**: They communicate effectively – with their environment, with other systems and with people. 
+
+## 🧠 What is next?  
+* 💡 [Up for the Challenge?](/inspire/) → Find the use cases and project briefs 
+* 🧭 [Agenda](/agenda) → Know what’s happening and when 
+* 🗺️ [Floormap](/area/) → Get around the Bosch Innovation Campus 
+* 🤝 [Partners](/partners/) → Meet the tech leaders supporting the event 
+* ❓ [FAQ](/help/) → Get answers, fast 
+
+And don’t forget – all comms, coordination, and spontaneous memes happen over in Slack. Check out  [this link](https://join.slack.com/t/boschinnovationcampus/shared_invite/zt-346ucwvua-yqlSmCAzhaJ33e2z_xnYtw), jump into our channel, and let’s get started! 
+
 
 {{< columns amount="2" >}}
   <!-- {{< profile name="Overview" url="/Metaverse_Hackathon_Housekeeping_Slides.pdf" >}}
