@@ -11,8 +11,6 @@ resources:
   src: "floor1.png"
 - name: "floor2"
   src: "floor2.png"
-- name: "floor3"
-  src: "floor3.png"
 ---
 
 ## The Hack Area
@@ -20,22 +18,14 @@ Please find in the following the map of the hackathon within the Bosch IoT Campu
 <br><br>
 **Please note:** We appreciate if you could stay within the dedicated area, as in the rest of the campus people are still working.<br>Thanks a lot! <span style="color:red;">&#x2665;</span><span style="color:red;">&#x2665;</span><span style="color:red;">&#x2665;</span>
 
-To download the full plan as pdf, please use the following [link](./hack_area.pdf)
-
-**Floor 1**
+**1st floor - Hacking Areas**
 <figure>
   <img src="./floor1.png" alt="Floor 1" width="864" height="486">
   <figcaption>(right-click and open in new tab to get full resolution)</figcaption>
 </figure  >
 
-**Floor 2**
+**1st floor - Event Space**
 <figure>
 <img src="./floor2.png" alt="Floor 2" width="864" height="486">
-<figcaption>(right-click and open in new tab to get full resolution)</figcaption>
-</figure  >
-
-**Floor 3**
-<figure>
-<img src="./floor3.png" alt="Floor 3" width="864" height="486">
 <figcaption>(right-click and open in new tab to get full resolution)</figcaption>
 </figure  >
