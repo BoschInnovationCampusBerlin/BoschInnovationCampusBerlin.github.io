@@ -1,27 +1,42 @@
 ---
 title: "PCBA BOM Parsing & Digitalization"
-description: "In the electronics industry, there is no standardized format for Bills of Materials (BOMs) for Printed Circuit Board Assemblies (PCBAs). Customers typically provide BOMs in various structures and file types (e.g., Excel, CSV, PDF), often tailored to their internal processes. This diversity makes automated processing and digitalization of BOMs challenging."
-date: 2023-08-23T16:40:06+02:00
+description: "In the electronics industry, there is no standardized format for Bills of Materials (BOMs) for Printed Circuit Board Assemblies (PCBAs).​ Customers typically submit BOMs in a variety of structures and file formats (e.g., Excel, CSV, PDF), often customized to their internal processes.​ This diversity makes automated processing and digitalization of BOMs extremely challenging.​ This extended use case goes beyond basic parsing and addresses another critical issue: the intelligent identification and evaluation of alternative components, leveraging external APIs such as Octopart/Nexar and SiliconExpert..​"
+date: 2025-06-18T16:40:06+02:00
 draft: false
 menu:
   inspire:
     parent: "inspire"
-    identifier: "industry-104569020912ec29a20eef119f0db4ec"
 weight: 999
 ---
 # IT Infractructure
-* BOM files in various formats/layouts/structures
-* UI / Application hosting environment
-* LLMs
+* Sample BOMs & Purchase Orders​
+* API Access:​
+  * Octopart/Nexar​
+  * SiliconExpert​
+  * Mouser​
 
 # Key components
-* Parsing Engine: Automatic extraction and interpretation of BOM content using AI/NLP techniques
-* Uncertainty Detection
-* Human interaction for feedback loop
+Multi-format BOM Input​
+* Accepts BOMs in with varying layouts and field naming.​
+
+AI-based Parsing & Validation​
+* Extracts and interprets BOM content using AI/NLP. Highlights uncertain fields.​
+
+Alternative Part Matching​
+* Connects to Octopart/Nexar and SiliconExpert to suggest compatible components. Evaluates technical differences (e.g. temperature, voltage) based on project assumptions (e.g. Automotive vs. Consumer).​
+
+Cost Evaluation Engine​
+* Selects best-fit alternative based on required quantities and volume pricing via supplier APIs. Optimizes for total BOM cost.​
+
+Database & Interactive UI​
+* Structured storage of enriched BOMs with a user-friendly interface for validation, conflict resolution, and part approval.​
 
 # Challenge
-Develop a working prototype that accepts BOMs in different formats and transforms them into a unified, structured format.
+Develop a working prototype that:​
+1. Parses BOMs from multiple input formats into a unified structure,​
+2. Identifies uncertainty or ambiguity in the extracted data,​
+3. Queries external APIs to find valid alternative components,​
+4. Evaluates these alternatives, even if technical specs differ slightly (e.g., operating temperature, tolerance, package),​
+5. Recommends the most cost-effective substitute based on quantity requirements and total PCB volume ordered by the customer.​
 
-The system must be able to identify uncertainty in its parsing results and explicitly highlight areas where manual human validation is needed.
-
-The ultimate goal is to achieve high parsing accuracy and ensure traceability of decisions, incorporating a human-in-the-loop where necessary.
+Decisions on whether a part qualifies as an alternative should be driven by predefined project assumptions, e.g., ordered quantity, the target industry (e.g., Automotive vs. Consumer Electronics)...

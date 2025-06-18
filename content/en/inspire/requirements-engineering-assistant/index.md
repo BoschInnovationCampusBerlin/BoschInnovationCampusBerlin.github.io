@@ -1,24 +1,38 @@
 ---
 title: "Requirements Engineering Assistant"
-description: "Managing requirements in the product development process is often inefficient, fragmented, and error-prone. Manual processes lead to delays, increased costs, and dissatisfied customers. There is a need for an automated and intelligent solution."
-date: 2023-08-23T16:40:06+02:00
+description: "REA is an AI-powered tool designed to streamline the requirements engineering process. It gathers and synthesizes inputs from various data sources to generate high-quality, non-contradicting requirements. ​By leveraging REA, teams can accelerate the requirements engineering process, improve outcome quality, and reduce risks, ultimately driving more successful product launches.​"
+date: 2025-06-18T16:40:06+02:00
 draft: false
 menu:
   inspire:
     parent: "inspire"
-    identifier: "industry-104569020912ec29a20eef119f0db4ec"
 weight: 999
 ---
 # IT Infractructure
-* Open Source project
-* Source of requirements, policies
-* UI / Application hosting environment
-* LLMs
+* Preferred environment: MS CoPilot Studio​
+
+Connectors to:​
+* Atlassian Cloud: Jira, Confluence​
+* Atlassian on Premise: Track & Release, Docupedia​
+* SharePoint, file Upload ​
+* Web Access (live)​
+
+Potentially any other requirement Engineering tools with API​
 
 # Key components
-* Tools and Systems as data sources for requirements
-* Governance / legal / security frame conditions
-* UI with a Natural language chatbot
+* Generative AI Engine: High-quality requirements from diverse inputs.​
+* Data Integration Layer: Connects to various data sources via APIs.​
+* Chatbot Interface: Real-time communication and queries.​
+* Human Oversight: Allows Product Owners to review and validate.​
+* Feedback Loop: Improves requirement accuracy based on input.​
 
 # Challenge
-Develop a functional prototype of an AI-powered Requirements Engineering Assistant (REA) that collects requirements from various sources, identifies and prioritizes core requirements, and highlights potential risks and gaps.
+In the Hackathon, we aim to develop a prototype of the REA.\
+This tool will streamline the requirements gathering process by collecting inputs, identifying core requirements, and highlighting potential risks and gaps. ​
+​
+Key Challenges​
+* Data Source Integration: Seamlessly connect diverse data sources.​
+* Data Access: Retrieve both product-specific and contextual information.​
+* Requirement Identification: Develop algorithms to accurately identify and prioritize core requirements.​
+
+By tackling these challenges, participants will help create a powerful tool that enhances the requirements engineering process for better product launches.​
