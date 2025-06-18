@@ -8,6 +8,12 @@ type: icontiles
 resources:
 - name: "image"
   src: "banner-friends.jpg"
+
+partners:
+  - name: Capgemini
+    src: Capgemini.png
+  - name: KI Park
+    src: KIPark.jpg
 ---
 
 <div class="a-text">
@@ -20,16 +26,3 @@ Every groundbreaking idea is fueled by supporters who champion collective ingenu
   div:has(>.to-end) { display: flex; flex-direction: column; }
   .to-end { width: 100%; order: 2}
 </style>
-
-<div class="tile-wrapper 3-col to-end" style="">
-  <div class="tile-item">
-    <div class="a-image__ratioWrapper" style="padding-top: 5%; text-align: center;">
-      <img src="/partners/Capgemini.png" style="max-width: 100%; height: auto; max-height: 175px; width: auto;" />
-    </div>
-  </div>
-  <div class="tile-item">
-    <div class="a-image__ratioWrapper" style="padding-top: 5%; text-align: center;">
-      <img src="/partners/KIPark.jpg" style="max-width: 100%; height: auto; max-height: 175px; width: auto;" />
-    </div>
-  </div>
-</div>

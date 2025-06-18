@@ -19,4 +19,19 @@
     {{ end }}
     {{ end }}
   </div>
+  
+  {{ with .Params.partners }}
+    <hr class="a-divider" />
+    With great support from our partners:
+    <div class="tile-wrapper 3-col to-end">
+      {{ range .}}
+        <div class="tile-item">
+            <div class="a-image__ratioWrapper" style="padding-top: 5%; text-align: center;">
+              <img src="{{ .src }}" style="max-width: 100%; height: auto; max-height: 175px; width: auto;" />
+            </div>
+        </div>
+      {{ end }}
+    </div>
+  {{ end}}
+
 {{ end }}

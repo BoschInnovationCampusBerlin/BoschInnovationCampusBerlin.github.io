@@ -39,12 +39,7 @@ Agentic AI refers to AI systems that go beyond pure information processing and c
 1. **Contextual understanding and proactivity**: Agentic AIs recognize the context of situations, anticipate problems or opportunities, and act with foresight. 
 1. **Interaction skills**: They communicate effectively – with their environment, with other systems and with people. 
 
-## 🧠 What is next?  
-* 💡 [Up for the Challenge?](/inspire/) → Find the use cases and project briefs 
-* 🧭 [Agenda](/agenda) → Know what’s happening and when 
-* 🗺️ [Floormap](/area/) → Get around the Bosch Innovation Campus 
-* 🤝 [Partners](/partners/) → Meet the tech leaders supporting the event 
-* ❓ [FAQ](/help/) → Get answers, fast 
+## 
 
 And don’t forget – all comms, coordination, and spontaneous memes happen over in Slack. Check out  [this link](https://join.slack.com/t/boschinnovationcampus/shared_invite/zt-346ucwvua-yqlSmCAzhaJ33e2z_xnYtw), jump into our channel, and let’s get started! 
 
