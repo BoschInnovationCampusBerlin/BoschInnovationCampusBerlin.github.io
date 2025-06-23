@@ -11,14 +11,18 @@ resources:
   src: "banner.png"
 ---
 
-### 👋 Welcome to the Agentic AI Hackathon GitHub Space 
+### 👋 Welcome to the Agentic AI Hackathon GitHub Space
 You’ve made it, and we’re excited to have you here! 
 
-This is your central hub for everything you need during the Agentic AI Hackathon at our  Bosch Innovation Campus in Berlin, including information on challenges, team formation, technical resources, submission guides and updates. 
+This is your central hub for everything you need during the Agentic AI Hackathon at our  Bosch Innovation Campus in Berlin, including information on challenges, team formation, technical resources, submission guides and updates.
 
-You're one of 100 selected hackers who will be joining us to push the boundaries of what AI can do when it’s no longer just predictive, but also proactive, autonomous and goal driven. 
+You're one of 100 selected hackers who will be joining us to push the boundaries of what AI can do when it’s no longer just predictive, but also proactive, autonomous and goal driven.
 
 So, whether you're here to build something extraordinary, test that edge-case prompt, or orchestrate a multi-agent pipeline, you've come to the right place!
+
+To help you during the hackathon, we would like to draw your attention to the key areas of the winner evaluation. We are looking for solutions that clearly address the chosen challenge, are scalable, and are feasible. Ideally, they should also contribute to social, environmental or economic sustainability. From a technical perspective, providing a working demo is essential, and we value creative, out-of-the-box thinking, particularly with regard to the application of agent-based AI principles such as autonomy, initiative, and contextual decision-making. When it comes to pitching, your presentation should be clear, confident and convincing. 
+
+Before the final pitches, we will select the eight best teams to present on stage in a short pre-selection phase. We will assess how well your solution fits the use case, whether it was developed locally, and how inspired and original it is.
 
 ## What is this Hackathon all about?
 Agentic AI represents a new paradigm in AI development – where systems don’t just react, but act.\
@@ -41,7 +45,7 @@ Agentic AI refers to AI systems that go beyond pure information processing and c
 
 ## 
 
-And don’t forget – all comms, coordination, and spontaneous memes happen over in Slack. Check out  [this link](https://join.slack.com/t/boschinnovationcampus/shared_invite/zt-346ucwvua-yqlSmCAzhaJ33e2z_xnYtw), jump into our channel, and let’s get started! 
+And don’t forget – all comms, coordination, and spontaneous memes happen over in Slack. Jump into our channel, and let’s get started! 
 
 
 {{< columns amount="2" >}}
